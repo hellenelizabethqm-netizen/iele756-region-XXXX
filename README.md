@@ -7,8 +7,10 @@
 No asignado
 
 # Bases de datos
-Para este código se utilizaron distintas bases de datos las cuáles puedes decargar desde sus páginas oficiales:
+Para este código se utilizaron distintas bases de datos las cuáles puedes decargar, junto con sus diccionarios, desde sus páginas oficiales:
+
 **Censo 2024** https://censo2024.ine.gob.cl/resultados/
+
 **ENO CHILE** https://epi.minsal.cl/bases-de-datos-eno/
 
 **Imagen de pinguinos para aligerar el estrés**
