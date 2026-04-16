@@ -1,0 +1,6 @@
+codigo_comuna,nombre_comuna,eno_total,eno_chilean,eno_foreign,eno_desconocido,eno_top3_diseases,eno_rate_per_10k
+13112,La Pintana,1507,755,102,650,"VIH, Parotiditis, Coqueluche",85.90761653393837
+13107,Huechuraba,832,456,68,308,"VIH, Parotiditis, Sifilis",81.72245796008173
+13602,El Monte,146,93,18,35,"VIH, Parotiditis, Sifilis",38.93644824919327
+13502,Alhué,28,14,9,5,"Chagas, VIH, Parotiditis",36.04531410916581
+13504,María Pinto,32,24,4,4,"VIH, Parotiditis, Chagas",20.844189682126107
